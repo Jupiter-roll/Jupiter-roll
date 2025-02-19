@@ -4,7 +4,18 @@ Hello, Welcome to my git profile!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<hr>
+<hr/>
+<h2 id="-github-trophies">🏆 GitHub Trophies</h2>
+<a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=basemax&amp;column=8&amp;margin-w=15&amp;margin-h=15" alt="basemax"></a>
+<a href="https://github.com/BaseMax?tab=repositories"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="------------------------------------------------------------------------"></a>
+  <h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jupiter-roll&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jupiter-roll&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
+</a>
+</p>
+<a href="https://github.com/BaseMax?tab=repositories"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="------------------------------------------------------------------------"></a>
 <pre><h3>💻 I am a Full-Stack developer with AI for 8 years.
 📚 I have a Bachelors in Computer Science
 📝 I have a strong interest in Software Engineering and Design
@@ -15,9 +26,6 @@ Hello, Welcome to my git profile!
 🚩 Interested in Server Side Application development
 😃 I look forward to collaborate on impactful projects</h3>
 </pre>
-<a href="https://github.com/BaseMax?tab=repositories"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="------------------------------------------------------------------------"></a>
-<h2 id="-github-trophies">🏆 GitHub Trophies</h2>
-<a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=basemax&amp;column=8&amp;margin-w=15&amp;margin-h=15" alt="basemax"></a>
 <a href="https://github.com/BaseMax?tab=repositories"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="------------------------------------------------------------------------"></a>
 <h3 align="left">🛠Languages and Tools:</h3>
   <table align="center">
@@ -267,10 +275,3 @@ Hello, Welcome to my git profile!
   </tbody>
   </table>
 <a href="https://github.com/BaseMax?tab=repositories"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="------------------------------------------------------------------------"></a>
-  <h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jupiter-roll&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jupiter-roll&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
-</a>
-</p>

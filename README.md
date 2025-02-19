@@ -27,7 +27,7 @@ Hello, Welcome to my git profile!
 😃 I look forward to collaborate on impactful projects</h3>
 </pre>
 <a href="https://github.com/BaseMax?tab=repositories"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="------------------------------------------------------------------------"></a>
-<h3 align="left">🛠Languages and Tools:</h3>
+<h3 align="left">🛠What I use Languages and Tools</h3>
   <table align="center">
   <tbody>
     <tr>

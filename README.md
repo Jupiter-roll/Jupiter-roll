@@ -21,7 +21,7 @@ Hi, Welcome to my git profile!
 📝 I have a strong interest in Software Engineering and Design
 🛠️ Working for various industries including finance, education, healthcare and enterprise
 🌱 Learning about efficient designs for scalable systems
-🌟 Main languages: Web: JS, TS, Next.js, ASP.NET Core, 
+🌟 Main languages: Web: JS, TS, Next.js, PYthon, FastAPI, 
                    Mobile: React Native, Kotlin, Swift/SwiftUI, Ionic
 🚩 Interested in Server Side Application development
 😃 I look forward to collaborate on impactful projects</h3>
